@@ -19,7 +19,7 @@
 * **Stack:** React 19, TypeScript, Vite, Node.js/Express.
 * **AI Architecture:** Orchestrated Gemini 2.0 via OpenRouter. Designed diverse, high-density prompts to enforce strict data structures for objective SWOT and pros/cons analyses.
 * **Deployment:** Fully deployed and running in production on Microsoft Azure App Service.
-* **Live App:** [👉 Try it out here](https://tie-breaker-fjgrfwbkakakgham.canadacentral-01.azurewebsites.net/)
+* **Live App:** [👉 Try it out here](https://tie-breaker-v2-avdmcehxfef8caeh.centralus-01.azurewebsites.net/)
 
 #### 🏦 [Lloyds Mortgage Calculator](https://github.com/Ahtesham-Latif/LLyods-Banking-Group-lloyds-mortgage-calculator) `Deployed`
 *A production-ready financial simulator built for a Lloyds Banking Group job simulation.*
